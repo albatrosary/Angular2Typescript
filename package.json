@@ -1,0 +1,24 @@
+{
+  "name": "angular2typescript",
+  "version": "0.0.0",
+  "description": "Angular2, TypeScript, System.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/albatrosary/Angular2Typescript.git"
+  },
+  "keywords": [
+    "Angular2",
+    "TypeScript",
+    "System.js"
+  ],
+  "author": "Fumio SAGAWA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albatrosary/Angular2Typescript/issues"
+  },
+  "homepage": "https://github.com/albatrosary/Angular2Typescript#readme"
+}
